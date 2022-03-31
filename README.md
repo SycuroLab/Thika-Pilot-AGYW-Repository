@@ -6,7 +6,7 @@
 
 * thika_pheatmap.R - Generates the heatmap figure using pheatmap. Performs Bray-curtis distance and "ward.D2" for heirarchial clustering with hclust function. 
 
-* thika_stacked_barplot.R - Generates the stacked bar plot using the metaphlan3 data.
+* thika_stacked_barplot.R - Generates the stacked bar plot using the metaphlan3 relative abundance data.
 
 ## 2. Supplementary files
 
