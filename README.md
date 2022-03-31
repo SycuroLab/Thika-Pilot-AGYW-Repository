@@ -2,7 +2,7 @@
 
 ## 1. R Source code for generating the heatmap and stacked bar plots.
 
-#### source_code directory
+### source_code directory
 
 * thika_pheatmap.R - Generates the heatmap figure using pheatmap. Performs Bray-curtis distance and "ward.D2" for heirarchial clustering with hclust function. 
 
